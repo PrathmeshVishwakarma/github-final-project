@@ -9,7 +9,7 @@ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduc
     "label": "PrathmeshVishwakarma:bug-fix-revert",
     "ref": "bug-fix-revert",
     "repo": {
-      "full_name": "PrathmeshVishwakarma/mcino-Introduction-to-Git-and-GitHub",
+      "full_name": "PrathmeshVishwakarma/github-final-project",
       "fork": true,
       "private": false
     }
