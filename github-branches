@@ -1,0 +1,11 @@
+git branch -a -vv
+
+  bug-fix-revert                53460f6 [origin/bug-fix-revert] Revert "Fix typo in footer year"
+  bug-fix-typo                  ac8a08e [origin/bug-fix-typo] Fix typo in footer year
+* main                          92d6d79 [origin/main] Add final project CLI outputs
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert 53460f6 Revert "Fix typo in footer year"
+  remotes/origin/bug-fix-typo   ac8a08e Fix typo in footer year
+  remotes/origin/main           92d6d79 Add final project CLI outputs
+  remotes/upstream/HEAD         -> upstream/main
+  remotes/upstream/main         ad95b0a Create close_pr.yml
